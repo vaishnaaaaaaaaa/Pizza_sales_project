@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Analysis with SQL
 
 ## 📊 Short Description
-SQL-based analysis of pizza sales data to uncover key trends in revenue, customer behavior, and product performance.
+This project explores and analyzes sales data from a pizza store using SQL. The goal is to uncover insights related to customer behavior, sales trends, and operational performance to support data-driven decision-making.
 
 ## 📌 Objective
 
