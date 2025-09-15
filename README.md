@@ -21,6 +21,8 @@ The **Pizza Sales Analysis** project aims to extract meaningful business insight
 
 ## 📂 Project Structure
 
+ ```bash
+
 Pizza-Sales-Analysis/
 │
 ├── data/
